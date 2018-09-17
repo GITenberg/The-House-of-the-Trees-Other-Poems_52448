@@ -1,6 +1,9 @@
 _repo: The-House-of-the-Trees-Other-Poems_52448
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The House of the Trees and Other Poems
+covers:
+- cover_type: archival
+  image_path: 52448-h/images/i_backcover.jpg
 creator:
   author:
     agent_name: Wetherald, A. Ethelwyn
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '26661'
     url: http://www.gutenberg.org/2009/agents/26661
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52448#The-House-of-the-Trees-Other-Poems
 gutenberg_issued: '2016-06-30'
 gutenberg_type: Text
 identifiers:
