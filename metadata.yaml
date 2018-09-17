@@ -1,0 +1,28 @@
+_repo: The-House-of-the-Trees-Other-Poems_52448
+_version: 0.0.1
+alternative_title: The House of the Trees and Other Poems
+creator:
+  author:
+    agent_name: Wetherald, A. Ethelwyn
+    aliases:
+    - Wetherald, Agnes Ethelwyn
+    - Wetherald, Ethelwyn
+    birthdate: 1857
+    deathdate: 1940
+    gutenberg_agent_id: '26661'
+    url: http://www.gutenberg.org/2009/agents/26661
+description: ''
+gutenberg_issued: '2016-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+- GITenberg
+title: The House of the Trees & Other Poems
+url: http://www.gutenberg.org/ebooks/52448
